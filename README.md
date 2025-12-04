@@ -1,8 +1,7 @@
 # Institute Management System
 
 A comprehensive application developed in **Java** to manage institute operations including student admissions, staff management, attendance, fee tracking and result calculation.  
-Ideal for showcasing backend logic, data persistence, and modular design — all relevant for a fresher Java Developer role.
-
+Ideal for showcasing backend logic, data persistence, and modular design.
 ---
 
 ## ✨ Features
